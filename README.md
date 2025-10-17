@@ -61,3 +61,6 @@ Users complete a 4-step questionnaire covering lifestyle, budget, and personal p
 ```ts
 Score = (Safety × W1) + (Commute × W2) + (Cost × W3) + (Lifestyle × W4) + (Transport × W5)
 Live Prokect:- https://neighbor-fit-nu.vercel.app/
+
+```
+Vercel Link:-https://neighbor-fit-nu.vercel.app/
